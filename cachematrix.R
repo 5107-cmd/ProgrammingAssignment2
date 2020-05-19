@@ -47,6 +47,6 @@ cacheSolve <- function(x, ...){
     # Set the inverse of inverse matrix
     x$setinverse(m)
     
-    # Return the matrix
-    m
+    # Return the matrixs
+    
 }
